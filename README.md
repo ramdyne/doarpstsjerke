@@ -1,0 +1,2 @@
+# doarpstsjerke
+Stichting Doarpstsjerke Metslawier
