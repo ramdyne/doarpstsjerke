@@ -1,5 +1,5 @@
-.. title: Doarpstsjerke Mitselwier
-.. slug: doarpstsjerke-mitselwier
+.. title: index
+.. slug: index
 .. date: 2015-10-08 22:11:29 UTC+02:00
 .. tags: 
 .. category: 
