@@ -122,7 +122,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/doarpstsjerke/", "Over"),
-        ("/categories/index.html", "Tags"),
+        ("/visie/", "Visie"),
         ("/rss.xml", "RSS-feed"),
     ),
 }
