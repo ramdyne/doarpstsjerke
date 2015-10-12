@@ -9,7 +9,7 @@
 
 De visie van de stichting is :
 **Dat de Doarpstsjerke van Metslawier vanouds het hart van het dorp en het dorpsleven is geweest en dat hij dit, veel meer
-dan in de voorbij decennia, ook weer moet worden.**
+dan in de voorbije decennia, ook weer moet worden.**
 
 De visie van de stichting is:
 **De Doarpstsjerke van Metslawier wordt weer het levende hart van het dorp en het dorpsleven.**
