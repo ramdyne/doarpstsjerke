@@ -7,4 +7,11 @@
 .. description: 
 .. type: text
 
-Write your page here.
++----------------+-----------------+
+| Voorzitter     | Freark v.d. Bij |
++----------------+-----------------+
+| Secretaris     | Mente Holwerda  |
++----------------+-----------------+
+| Penningmeester | Hette Meinema   |
++----------------+-----------------+
+
