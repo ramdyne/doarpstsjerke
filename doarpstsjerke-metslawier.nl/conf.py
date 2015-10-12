@@ -18,7 +18,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Stichting Doarpstsjerke Metslawier"  # (translatable)
-BLOG_TITLE = "Doarpstsjerke Metslawier"  # (translatable)
+BLOG_TITLE = "Stichting Doarpstsjerke Metslawier"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
 SITE_URL = "http://doarpstsjerke-metslawier.nl/"
@@ -121,7 +121,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/stories/doarpstsjerke-mitselwier/", "Introductie"),
+        ("/doarpstsjerke/", "Over"),
         ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS-feed"),
     ),
