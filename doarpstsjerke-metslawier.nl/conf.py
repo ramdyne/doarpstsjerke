@@ -123,7 +123,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/doarpstsjerke/", "Over"),
         ("/visie/", "Visie"),
-        ("/rss.xml", "RSS-feed"),
+        ("/stichting/", "Stichting"),
     ),
 }
 
