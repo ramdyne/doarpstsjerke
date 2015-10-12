@@ -69,13 +69,19 @@ ${template_hooks['extra_head']()}
     </div>
 </div>
 
-<footer class="stickyfooter">
+<nav class="navbar navbar-default navbar-fixed-bottom">
     <div class="container">
-        ${content_footer}
-        ${template_hooks['page_footer']()}
+        <p class="navbar-text">${content_footer}</p>
+        <div class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li><a href="/contact/">ANBI: 854220975</a></li>
+                <li><a href="/contact/">Contact</a></li>
+                <li class="navbar-right"><a href="https://github.com/ramdyne/doarpstsjerke">Site bron</a></li>
+            </ul>
+        </div>
     </div>
-</footer>
- 
+</nav>
+
 ${base.late_load_js()}
     <script>$('a.image-reference:not(.islink)').colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script>
     <!-- fancy dates -->
