@@ -66,14 +66,16 @@ ${template_hooks['extra_head']()}
             <%block name="content"></%block>
         </div>
         <!--End of body content-->
-
-        <footer>
-            ${content_footer}
-            ${template_hooks['page_footer']()}
-        </footer>
     </div>
 </div>
 
+<footer class="stickyfooter">
+    <div class="container">
+        ${content_footer}
+        ${template_hooks['page_footer']()}
+    </div>
+</footer>
+ 
 ${base.late_load_js()}
     <script>$('a.image-reference:not(.islink)').colorbox({rel:"gal",maxWidth:"100%",maxHeight:"100%",scalePhotos:true});</script>
     <!-- fancy dates -->
