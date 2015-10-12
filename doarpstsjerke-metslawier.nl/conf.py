@@ -124,6 +124,7 @@ NAVIGATION_LINKS = {
         ("/doarpstsjerke/", "Over"),
         ("/visie/", "Visie"),
         ("/stichting/", "Stichting"),
+        ("/contact/", "Contact"),
     ),
 }
 
