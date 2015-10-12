@@ -6,15 +6,27 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/</loc>
-  <lastmod>2015-10-08</lastmod>
+  <lastmod>2015-10-13</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/archive.html</loc>
-  <lastmod>2015-10-08</lastmod>
+  <lastmod>2015-10-13</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/</loc>
+  <lastmod>2015-10-12</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/</loc>
   <lastmod>2015-10-08</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/contact/</loc>
+  <lastmod>2015-10-13</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/doarpstsjerke/</loc>
+  <lastmod>2015-10-12</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/galleries/</loc>
@@ -25,7 +37,11 @@
   <lastmod>2015-10-08</lastmod>
  </url>
  <url>
-  <loc>http://doarpstsjerke-metslawier.nl/stories/doarpstsjerke-mitselwier/</loc>
-  <lastmod>2015-10-08</lastmod>
+  <loc>http://doarpstsjerke-metslawier.nl/stichting/</loc>
+  <lastmod>2015-10-13</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/visie/</loc>
+  <lastmod>2015-10-13</lastmod>
  </url>
 </urlset>

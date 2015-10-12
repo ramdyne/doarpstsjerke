@@ -1,5 +1,11 @@
-body {
+/*body {
     margin-top: 60px;
+}
+*/
+
+body {
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #container {
@@ -154,9 +160,10 @@ article.post-micro {
     margin-top: 1em;
 }
 
-.navbar-brand {
+/*.navbar-brand {
     padding: 0 15px;
 }
+*/
 
 .navbar-brand #blog-title {
     padding: 15px 0;
@@ -174,3 +181,4 @@ article.post-micro {
 .row {
     margin: 0;
 }
+

@@ -3,7 +3,7 @@
     <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>galleries | Stichting Doarpstsjerke Metslawier</title>
+    <title>Contact | Stichting Doarpstsjerke Metslawier</title>
 
     
             <link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -14,7 +14,7 @@
 
     
 
-      <link rel="canonical" href="http://doarpstsjerke-metslawier.nl/galleries/">
+      <link rel="canonical" href="http://doarpstsjerke-metslawier.nl/contact/">
 
 
 
@@ -25,17 +25,32 @@
     
 
 
+    
+
+    <meta name="author" content="Stichting Doarpstsjerke Metslawier">
+    
+    <meta property="og:site_name" content="Stichting Doarpstsjerke Metslawier">
+    <meta property="og:title" content="Contact">
+    <meta property="og:url" content="http://doarpstsjerke-metslawier.nl/contact/">
+    <meta property="og:description" content="Correspondentieadres:
+Stichting Doarpstsjerke Metslawier
+De Pelfinne 10
+9123 JK Metslawier
 
 
-<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
-<style type="text/css">
-    .image-block {
-        display: inline-block;
-    }
-    .flowr_row {
-        width: 100%;
-    }
-    </style>
+Email:
+Stichting.Doarpstsjerke.Metslawier@outlook.com
+Kamer van Koophandel:
+61131075
+ANBI:
+Goedkeuring onde">
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="2015-10-13T00:33:13+02:00">
+
+    
+
+    
+
 
 
 </head>
@@ -72,8 +87,8 @@
 <li>
 <a href="../stichting/">Stichting</a>
                 </li>
-<li>
-<a href="../contact/">Contact</a>
+<li class="active">
+<a href=".">Contact</a>
 
                 
             </li>
@@ -98,16 +113,37 @@
         <div class="row">
             
             
+<article class="storypage" itemscope="itemscope" itemtype="http://schema.org/Article">
+    <header>
+        
+    <h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Contact</a></h1>
+
+        
+
+    </header>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <div>
+<div class="line-block">
+<div class="line"><strong>Correspondentieadres:</strong></div>
+<div class="line">Stichting Doarpstsjerke Metslawier</div>
+<div class="line">De Pelfinne 10</div>
+<div class="line">9123 JK Metslawier</div>
+</div>
+<dl class="docutils">
+<dt>Email:</dt>
+<dd><a class="reference external" href="mailto:Stichting.Doarpstsjerke.Metslawier@outlook.com">Stichting.Doarpstsjerke.Metslawier@outlook.com</a></dd>
+<dt>Kamer van Koophandel:</dt>
+<dd>61131075</dd>
+<dt>ANBI:</dt>
+<dd>Goedkeuring onder nummer RSIN/fiscaal identificatienummer: 854220975</dd>
+<dt>Bankrekeningnummer:</dt>
+<dd>NL14RABO0187695288</dd>
+</dl>
+</div>
+    </div>
     
-<nav class="breadcrumbs">
-<ul class="breadcrumb">
-                <li>galleries</li>
-</ul>
-</nav>
 
-    <h1>galleries</h1>
-
-<div id="gallery_container"></div>
+</article>
 
         </div>
         <!--End of body content-->
@@ -119,8 +155,8 @@
         <p class="navbar-text">Inhoud © 2015  Stichting Doarpstsjerke Metslawier</p>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a href="../contact/">ANBI: 854220975</a></li>
-                <li><a href="../contact/">Contact</a></li>
+                <li><a href=".">ANBI: 854220975</a></li>
+                <li><a href=".">Contact</a></li>
                 <li class="navbar-right"><a href="https://github.com/ramdyne/doarpstsjerke">Site bron</a></li>
             </ul>
         </div>
@@ -144,45 +180,6 @@
     </script>
     <!-- end fancy dates -->
     
-<script src="../assets/js/flowr.plugin.js"></script>
-<script>
-jsonContent = [];
-$("#gallery_container").flowr({
-        data : jsonContent,
-        height : 180*.6,
-        padding: 5,
-        rows: -1,
-        render : function(params) {
-            // Just return a div, string or a dom object, anything works fine
-            img = $("<img />").attr({
-                'src': params.itemData.url_thumb,
-                'width' : params.width,
-                'height' : params.height
-            }).css('max-width', '100%');
-            link = $( "<a></a>").attr({
-                'href': params.itemData.url,
-                'class': 'image-reference'
-            });
-            div = $("<div />").addClass('image-block').attr({
-                'title': params.itemData.title,
-                'data-toggle': "tooltip",
-            });
-            link.append(img);
-            div.append(link);
-            div.hover(div.tooltip());
-            return div;
-        },
-        itemWidth : function(data) { return data.size.w; },
-        itemHeight : function(data) { return data.size.h; },
-        complete : function(params) {
-            if( jsonContent.length > params.renderedItems ) {
-                nextRenderList = jsonContent.slice( params.renderedItems );
-            }
-        }
-    });
-$("a.image-reference").colorbox({rel:"gal", maxWidth:"100%",maxHeight:"100%",scalePhotos:true});
-</script>
-
 
 
 </body>

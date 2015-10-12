@@ -3,7 +3,7 @@
     <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>galleries | Stichting Doarpstsjerke Metslawier</title>
+    <title>Stichting | Stichting Doarpstsjerke Metslawier</title>
 
     
             <link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -14,7 +14,7 @@
 
     
 
-      <link rel="canonical" href="http://doarpstsjerke-metslawier.nl/galleries/">
+      <link rel="canonical" href="http://doarpstsjerke-metslawier.nl/stichting/">
 
 
 
@@ -25,17 +25,28 @@
     
 
 
+    
 
+    <meta name="author" content="Stichting Doarpstsjerke Metslawier">
+    
+    <meta property="og:site_name" content="Stichting Doarpstsjerke Metslawier">
+    <meta property="og:title" content="Stichting">
+    <meta property="og:url" content="http://doarpstsjerke-metslawier.nl/stichting/">
+    <meta property="og:description" content="Voorzitter
+Freark v.d. Bij
 
-<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
-<style type="text/css">
-    .image-block {
-        display: inline-block;
-    }
-    .flowr_row {
-        width: 100%;
-    }
-    </style>
+Secretaris
+Mente Holwerda
+
+Penningmeester
+Hette Meinema">
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="2015-10-13T00:27:04+02:00">
+
+    
+
+    
+
 
 
 </head>
@@ -69,8 +80,8 @@
 <li>
 <a href="../visie/">Visie</a>
                 </li>
-<li>
-<a href="../stichting/">Stichting</a>
+<li class="active">
+<a href=".">Stichting</a>
                 </li>
 <li>
 <a href="../contact/">Contact</a>
@@ -98,16 +109,39 @@
         <div class="row">
             
             
+<article class="storypage" itemscope="itemscope" itemtype="http://schema.org/Article">
+    <header>
+        
+    <h1 class="p-name entry-title" itemprop="headline name"><a href="." class="u-url">Stichting</a></h1>
+
+        
+
+    </header>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <table border="1" class="docutils">
+<colgroup>
+<col width="48%">
+<col width="52%">
+</colgroup>
+<tbody valign="top">
+<tr>
+<td>Voorzitter</td>
+<td>Freark v.d. Bij</td>
+</tr>
+<tr>
+<td>Secretaris</td>
+<td>Mente Holwerda</td>
+</tr>
+<tr>
+<td>Penningmeester</td>
+<td>Hette Meinema</td>
+</tr>
+</tbody>
+</table>
+    </div>
     
-<nav class="breadcrumbs">
-<ul class="breadcrumb">
-                <li>galleries</li>
-</ul>
-</nav>
 
-    <h1>galleries</h1>
-
-<div id="gallery_container"></div>
+</article>
 
         </div>
         <!--End of body content-->
@@ -144,45 +178,6 @@
     </script>
     <!-- end fancy dates -->
     
-<script src="../assets/js/flowr.plugin.js"></script>
-<script>
-jsonContent = [];
-$("#gallery_container").flowr({
-        data : jsonContent,
-        height : 180*.6,
-        padding: 5,
-        rows: -1,
-        render : function(params) {
-            // Just return a div, string or a dom object, anything works fine
-            img = $("<img />").attr({
-                'src': params.itemData.url_thumb,
-                'width' : params.width,
-                'height' : params.height
-            }).css('max-width', '100%');
-            link = $( "<a></a>").attr({
-                'href': params.itemData.url,
-                'class': 'image-reference'
-            });
-            div = $("<div />").addClass('image-block').attr({
-                'title': params.itemData.title,
-                'data-toggle': "tooltip",
-            });
-            link.append(img);
-            div.append(link);
-            div.hover(div.tooltip());
-            return div;
-        },
-        itemWidth : function(data) { return data.size.w; },
-        itemHeight : function(data) { return data.size.h; },
-        complete : function(params) {
-            if( jsonContent.length > params.renderedItems ) {
-                nextRenderList = jsonContent.slice( params.renderedItems );
-            }
-        }
-    });
-$("a.image-reference").colorbox({rel:"gal", maxWidth:"100%",maxHeight:"100%",scalePhotos:true});
-</script>
-
 
 
 </body>
