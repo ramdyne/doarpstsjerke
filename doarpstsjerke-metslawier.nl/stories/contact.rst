@@ -7,4 +7,19 @@
 .. description: 
 .. type: text
 
-Write your page here.
+| **Correspondentieadres:**
+| Stichting Doarpstsjerke Metslawier
+| De Pelfinne 10
+| 9123 JK Metslawier
+
+Email:
+    `Stichting.Doarpstsjerke.Metslawier@outlook.com <mailto:Stichting.Doarpstsjerke.Metslawier@outlook.com>`_
+
+Kamer van Koophandel:
+    61131075
+
+ANBI:
+    Goedkeuring onder nummer RSIN/fiscaal identificatienummer: 854220975
+
+Bankrekeningnummer:
+    NL14RABO0187695288
