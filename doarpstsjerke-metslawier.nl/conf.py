@@ -123,6 +123,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/doarpstsjerke/", "Over"),
         ("/visie/", "Visie"),
+        ("/blog/", "Blog"),
+        ("/galleries/", "Foto's"),
         ("/stichting/", "Stichting"),
         ("/contact/", "Contact"),
     ),
