@@ -6,11 +6,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/</loc>
-  <lastmod>2015-11-29</lastmod>
+  <lastmod>2016-02-04</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/2015/</loc>
   <lastmod>2015-11-29</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/2016/</loc>
+  <lastmod>2016-02-04</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/archive.html</loc>
@@ -18,7 +22,11 @@
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/</loc>
-  <lastmod>2015-11-29</lastmod>
+  <lastmod>2016-02-04</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/fotos-binnen-en-buitenkant/</loc>
+  <lastmod>2016-02-04</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/grafzerk/</loc>
