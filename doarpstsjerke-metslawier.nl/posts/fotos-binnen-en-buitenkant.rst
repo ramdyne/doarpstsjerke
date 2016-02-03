@@ -7,5 +7,5 @@
 .. description: 
 .. type: text
 
-Aan de `Foto's <galleries/>`_ pagina zijn twee galerijen toegevoegd. Een voor de foto's van het `exterieur
-<galleries/exterieur/>`_ en een voor foto's van het `interieur <galleries/interieur/>`_ van de kerk.
+Aan de `Foto's </galleries/>`_ pagina zijn twee galerijen toegevoegd. Een voor de foto's van het `exterieur
+</galleries/exterieur/>`_ en een voor foto's van het `interieur </galleries/interieur/>`_ van de kerk.
