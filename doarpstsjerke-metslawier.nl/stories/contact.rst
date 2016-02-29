@@ -15,4 +15,4 @@
 Email:
     `Stichting.Doarpstsjerke.Metslawier@outlook.com <mailto:Stichting.Doarpstsjerke.Metslawier@outlook.com>`_
 
-Voor meer financiele gegevens, kijk op onze `Financiën `_ pagina
+Voor meer financiele gegevens, kijk op onze `Financiën </financien/>`_ pagina
