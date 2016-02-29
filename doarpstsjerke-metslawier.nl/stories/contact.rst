@@ -15,11 +15,4 @@
 Email:
     `Stichting.Doarpstsjerke.Metslawier@outlook.com <mailto:Stichting.Doarpstsjerke.Metslawier@outlook.com>`_
 
-Kamer van Koophandel:
-    61131075
-
-ANBI:
-    Goedkeuring onder nummer RSIN/fiscaal identificatienummer: 854220975
-
-Bankrekeningnummer:
-    NL14RABO0187695288
+Voor meer financiele gegevens, kijk op onze `Financiën `_ pagina
