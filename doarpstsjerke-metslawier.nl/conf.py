@@ -122,6 +122,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/doarpstsjerke/", "Over"),
+        ("/mienskipshus/", "Mienskipshûs"),
         ("/visie/", "Visie"),
         ("/huren/", "Huren"),
         ("/blog/", "Blog"),
