@@ -9,7 +9,7 @@
 
 .. image:: galleries/website/20140405-IMG_4022.jpg
     :alt: De Doarpstsjerke
-    :width: 400px
+    :width: 400 px
 
 De Stichting Doarpstsjerke Metslawier heeft zich in de voorbije jaren o.a. in samenwerking en samenspraak met de Stichting
 Behoud Kerkelijke Gebouwen in Friesland, het Provinciale Deltateam Functieverandering Kerkgebouwen en het Buro
