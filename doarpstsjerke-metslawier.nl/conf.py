@@ -127,6 +127,7 @@ NAVIGATION_LINKS = {
         ("/blog/", "Blog"),
         ("/galleries/", "Foto's"),
         ("/stichting/", "Stichting"),
+        ("/financien/", "Financiën"),
         ("/contact/", "Contact"),
     ),
 }
