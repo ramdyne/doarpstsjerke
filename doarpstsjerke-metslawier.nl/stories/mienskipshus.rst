@@ -7,9 +7,8 @@
 .. description: 
 .. type: text
 
-U bent welkom in het Mienskipshûs Doarpstsjerke Metslawier! Het Mienskipshûs is vanaf 19 maart 2016 op een 
-vast moment in de week geopend als stilte- c/q bezinningscentrum en een plek waar je een praatje kunt maken 
-of een vraag om hulp of raad neer kunt leggen.
+U bent welkom in het Mienskipshûs Doarpstsjerke Metslawier! He Mienskipsh�s is `vanaf 19 maart 2016 </blog/opening-mienskipshus-doarpstsjerke-metslawier/>`_ op een 
+vast moment in de week geopend als stilte- c/q bezinningscentrum en een plek waar je een praatje kunt maken of een vraag om hulp of raad neer kunt leggen.
 
 --------------
 Openingstijden
