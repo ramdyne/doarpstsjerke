@@ -7,7 +7,7 @@
 .. description: 
 .. type: text
 
-Het Mienskipshûs ‘Doarpstsjerke Metslawier’ wordt op 18 maart om 15:00 uur geopend. 
+Het Mienskipshûs ‘Doarpstsjerke Metslawier’ wordt op 18 maart om 15:00 uur `geopend </flyers/Scan_20160219_flyer.pdf>`_. 
 
 Tegelijk met  de opening van het Mienskipshûs wordt ook de tentoonstelling “Fryske Lânskipskilders en Doarpstsjerken geopend.
 Op deze tentoonstelling is werk te zien van o.a. Jan Frearks van der Bij, Johannes Elzinga, Pier Feddema, Klaas en Gosse
@@ -30,3 +30,4 @@ maken of een vraag om hulp of raad neer kunt leggen.
 Voor een bezoekje aan het Mienskipshûs zal dit vanaf 18 maart 2016 op zaterdag en zondagmiddag van 13:30 tot 17:00 uur
 geopend zijn en verder op de speciaal aangegeven momenten of op afspraak.
 
+Zie ook de `flyer </flyers/Scan_20160219_flyer.pdf>`_
