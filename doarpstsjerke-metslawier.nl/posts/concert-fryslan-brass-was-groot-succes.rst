@@ -7,10 +7,10 @@
 .. description: 
 .. type: text
 
-.. image:: galleries/20160417_fryslan_brass/DSC01016.JPG
+.. image:: /galleries/20160417_fryslan_brass/DSC01016.JPG
     :alt: Fryslan Brass
     :width: 300 px
-    :align: center
+    S
 
 Zondag 17 april 2016 verzorgde de kopergroep Fryslan Brass een concert in het Mienskipshûs Doarpstsjerke Metslawier, het
 eerste concert na de opening van het Mienskipshûs. Een 100 tal bezoekers waren bij het `concert 
