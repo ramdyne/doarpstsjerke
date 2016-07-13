@@ -12,6 +12,7 @@ vleermuizen, waarvan het grootste deel op de zolder boven de kerkzaal. Van de 27
 betekent dat bij de helft van de volwassen vleermuizen op dit moment jongen zijn vastgesteld.
 
 .. raw:: html
+
     <div align="center"><a href="/galleries/vleermuizen/" title="_DSC3000 kopie.jpg">
         <img src="/galleries/vleermuizen/_DSC3000 kopie.thumbnail.jpg" alt="_DSC3000 kopie.jpg"></a></div>
     <div align="center"><a href="/galleries/vleermuizen/" title="_DSC2974 kopie.jpg">
