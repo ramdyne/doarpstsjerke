@@ -17,4 +17,4 @@ Behoud Kerkelijke Gebouwen in Friesland, het Provinciale Deltateam Functieverand
 Plattelansprojecten Noordoost Friesland vanuit `onze visie </visie/>`_ bezig gehouden met het ontwikkelen van een duurzaam plan
 voor het behoud en het multifunctioneel gebruik van de "Doarpstsjerke Mitselwier".
 
-Lees ons `blog </blog/>`_ voor nieuws over de Doarpstsjerke. Vanaf 19 maart is het `Mienskipshûs </mienskipshus/>`_ in het weekend geopend!
+Lees ons `blog </categories/cat_blog/>`_ voor nieuws over de Doarpstsjerke. Vanaf 19 maart is het `Mienskipshûs </mienskipshus/>`_ in het weekend geopend!
