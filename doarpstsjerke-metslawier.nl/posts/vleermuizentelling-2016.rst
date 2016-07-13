@@ -14,9 +14,9 @@ betekent dat bij de helft van de volwassen vleermuizen op dit moment jongen zijn
 .. raw:: html
 
     <div align="center"><a href="/galleries/vleermuizen/" title="_DSC3000 kopie.jpg">
-        <img src="/galleries/vleermuizen/_DSC3000 kopie.thumbnail.jpg" alt="_DSC3000 kopie.jpg"></a></div>
+        <img src="/galleries/vleermuizen/_DSC3000 kopie.thumbnail.jpg" alt="_DSC3000 kopie.jpg"></a></div><br/>
     <div align="center"><a href="/galleries/vleermuizen/" title="_DSC2974 kopie.jpg">
-        <img src="/galleries/vleermuizen/_DSC2974 kopie.thumbnail.jpg" alt="_DSC2974 kopie.jpg"></a></div>
+        <img src="/galleries/vleermuizen/_DSC2974 kopie.thumbnail.jpg" alt="_DSC2974 kopie.jpg"></a></div><br/>
     <div align="center"><a href="/galleries/vleermuizen/" title="_DSC3001 kopie.jpg">
-        <img src="/galleries/vleermuizen/_DSC3001 kopie.thumbnail.jpg" alt="_DSC3001 kopie.jpg"></a></div>
+        <img src="/galleries/vleermuizen/_DSC3001 kopie.thumbnail.jpg" alt="_DSC3001 kopie.jpg"></a></div> <br/>
 
