@@ -123,7 +123,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/doarpstsjerke/", "Over"),
         ("/mienskipshus/", "Mienskipshûs"),
-        ("/visie/", "Visie"),
+        #("/visie/", "Visie"),
 	("/categories/cat_agenda/", "Agenda"),
         ("/huren/", "Huren"),
         ("/blog/", "Blog"),
