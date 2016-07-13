@@ -23,6 +23,11 @@ de schatkamer van de lichte en klassieke muziek. Van gevoelige ballad tot stevig
 theatervoorstelling 'It lûd fan’e wjukslach' van Theo Smedes. Met 'de Wjuk' werd een avontuurlijke reis door de provincie
 gemaakt: in zes maanden tien voorstellingen.
 
+.. image:: galleries/agenda/20160713_agenda/20161023_stim.jpg
+    :alt: STIM
+    :width: 300 px
+    :align: center
+
 Dirigent en creatief leider is Titus Steegstra. “In onze programma's nemen we mensen mee op reis door een gevarieerd muzikaal
 landschap”, zegt hij. “Aan boord van onze vocale trein ontmoet je de meest uiteenlopende 'passagiers': van Coldplay, Steely
 Dan en James Taylor tot en met Bobby McFerrin, The Real Group, Brigitte Kaandorp en The Beatles. Wij willen mensen laten
