@@ -23,7 +23,7 @@ de schatkamer van de lichte en klassieke muziek. Van gevoelige ballad tot stevig
 theatervoorstelling 'It lûd fan’e wjukslach' van Theo Smedes. Met 'de Wjuk' werd een avontuurlijke reis door de provincie
 gemaakt: in zes maanden tien voorstellingen.
 
-.. image:: galleries/agenda/20160713_agenda/20161023_stim.jpg
+.. image:: /galleries/agenda/20160713_agenda/20161023_stim.jpg
     :alt: STIM
     :width: 300 px
     :align: center
