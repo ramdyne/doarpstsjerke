@@ -124,6 +124,7 @@ NAVIGATION_LINKS = {
         ("/doarpstsjerke/", "Over"),
         ("/mienskipshus/", "Mienskipshûs"),
         ("/visie/", "Visie"),
+	("/categories/cat_agenda/", "Agenda"),
         ("/huren/", "Huren"),
         ("/blog/", "Blog"),
         ("/galleries/", "Foto's"),
