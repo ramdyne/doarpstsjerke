@@ -126,7 +126,7 @@ NAVIGATION_LINKS = {
         #("/visie/", "Visie"),
 	("/categories/cat_agenda/", "Agenda"),
         ("/huren/", "Huren"),
-        ("/blog/", "Blog"),
+        ("/categories/cat_blog/", "Blog"),
         ("/galleries/", "Foto's"),
         ("/stichting/", "Stichting"),
         ("/financien/", "Financiën"),
