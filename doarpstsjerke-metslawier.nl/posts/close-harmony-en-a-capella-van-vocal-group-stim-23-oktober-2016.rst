@@ -1,7 +1,7 @@
 .. title: Close harmony en a capella van Vocal Group STIM - 23 oktober 2016
 .. slug: close-harmony-en-a-capella-van-vocal-group-stim-23-oktober-2016
 .. date: 2016-10-23 15:00:00 UTC+02:00
-.. tags: close harmony, zang, a capellai, concert
+.. tags: close harmony, zang, a capella, concert
 .. category: agenda 
 .. link: 
 .. description: 

@@ -2,7 +2,7 @@
 .. slug: concert-fryslan-brass-was-groot-succes
 .. date: 2016-04-17 21:02:16 UTC+02:00
 .. tags: evenement,fryslan brass,concert
-.. category: 
+.. category: blog
 .. link: 
 .. description: 
 .. type: text
