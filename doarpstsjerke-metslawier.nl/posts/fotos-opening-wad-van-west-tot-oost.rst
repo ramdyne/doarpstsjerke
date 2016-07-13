@@ -7,4 +7,4 @@
 .. description: 
 .. type: text
 
-Foto's van de opening van de tentoonstelling Wad van West tot Oost staan `hier </galleries/opening/20160710_opening_tentoonstelling>`_.
+Foto's van de opening van de tentoonstelling Wad van West tot Oost staan `hier </galleries/20160710_opening_tentoonstelling>`_.
