@@ -1,8 +1,8 @@
 .. title: Wad van West tot Oost - 9 juli tot 10 september 2016
 .. slug: wad-van-west-tot-oost-9-juli-tot-10-september-2016
 .. date: 2016-07-09 13:00:00 UTC+02:00
-.. tags: keramiek,fotografie
-.. category: agenda,expositie
+.. tags: keramiek,fotografie,expositie
+.. category: agenda
 .. link: 
 .. description: 
 .. type: text

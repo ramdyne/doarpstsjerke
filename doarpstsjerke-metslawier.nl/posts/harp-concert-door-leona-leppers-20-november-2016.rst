@@ -1,8 +1,8 @@
 .. title: Harp concert door Leona Leppers - 20 november 2016
 .. slug: harp-concert-door-leona-leppers-20-november-2016
 .. date: 2016-11-20 15:00:00 UTC+02:00
-.. tags: harp
-.. category: agenda, concert 
+.. tags: harp concert
+.. category: agenda 
 .. link: 
 .. description: 
 .. type: text
