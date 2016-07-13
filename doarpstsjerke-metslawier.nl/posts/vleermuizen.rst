@@ -2,7 +2,7 @@
 .. slug: vleermuizen
 .. date: 2015-09-03 15:38:12 UTC+02:00
 .. tags: 
-.. category: 
+.. category: blog 
 .. link: 
 .. description: 
 .. type: text

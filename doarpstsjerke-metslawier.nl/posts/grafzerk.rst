@@ -2,7 +2,7 @@
 .. slug: grafzerk
 .. date: 2015-08-24 11:30:39 UTC+02:00
 .. tags: 
-.. category: 
+.. category: blog 
 .. link: 
 .. description: 
 .. type: text

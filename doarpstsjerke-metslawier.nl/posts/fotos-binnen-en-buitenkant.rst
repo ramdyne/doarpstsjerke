@@ -2,7 +2,7 @@
 .. slug: fotos-binnen-en-buitenkant
 .. date: 2016-02-04 00:25:47 UTC+01:00
 .. tags: 
-.. category: 
+.. category: blog 
 .. link: 
 .. description: 
 .. type: text

@@ -1,6 +1,6 @@
 .. title: Opening Mienskipshûs ‘Doarpstsjerke Metslawier’
 .. slug: opening-mienskipshus-doarpstsjerke-metslawier
-.. date: 2016-02-29 23:15:47 UTC+01:00
+.. date: 2016-03-18 15:00:00 UTC+01:00
 .. tags: 
 .. category: 
 .. link: 
