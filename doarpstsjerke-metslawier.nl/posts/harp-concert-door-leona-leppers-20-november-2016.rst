@@ -22,7 +22,7 @@ liefde voor de harp. Een jaar later begon ze dit instrument te bespelen. De conc
 geestelijk ontspannend ervaren. Zelf geeft ze aan dat ze als intuïtief harpist geleid wordt door de sfeer en de mensen die er
 zijn. Samen wordt een beleving gemaakt die ieder raakt. De stilte daalt letterlijk neer………….
 
-.. image:: i/galleries/agenda/20160713_agenda/20161120_leona_leppers.jpg
+.. image:: /galleries/agenda/20160713_agenda/20161120_leona_leppers.jpg
     :alt: Leona Leppers
     :width: 300 px
     :align: center
