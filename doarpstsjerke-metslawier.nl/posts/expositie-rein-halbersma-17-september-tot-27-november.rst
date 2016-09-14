@@ -14,6 +14,11 @@ Terschelling, vissserijhaven Lauwersoog en N.O. Fryslân.
 Ook zijn er olieverf schilderijen te zien die zijn geïnspireerd op de mooie landschappen van dit hiervoor genoemde deel van
 Fryslân.
 
+.. image:: http://mitselwier.nl/wp-content/uploads/2016/09/Poster-Rein-Halbesma.jpg
+    :alt: Leona Leppers
+    :width: 300 px
+    :align: center
+
 Rein Halbersma werd geboren te Leeuwarden [1949] en groeide op te Wanswerd a/d Streek.
 Al op jonge leeftijd bleek zijn aanleg voor tekenen. Na 1979 ging hij zich serieus aan de kunst wijden en volgde een tiental
 jaren lessen bij verschillende bekende kunstenaars. 
