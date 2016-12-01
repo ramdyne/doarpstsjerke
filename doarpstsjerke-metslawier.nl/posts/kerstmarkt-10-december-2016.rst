@@ -1,6 +1,6 @@
 .. title: Kerstmarkt 10 december
 .. slug: kerstmarkt-10-december-2016
-.. date: 2016-12-10 10:00:00 UTC+02:00
+.. date: 2016-12-10 17:00:00 UTC+02:00
 .. tags: kerst,markt,kerstmarkt
 .. category: agenda 
 .. link: 
