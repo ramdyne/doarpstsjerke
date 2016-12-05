@@ -14,4 +14,17 @@ De schilderijententoonstelling is te bezoeken gedurende de openingstijden van he
 het weekend van 10 en 11 december, 17 en 18 december, 7 en 8 januari van 13:30 tot 17:00 uur.
 
 In het weekend van 10 en 11 december is er van 17:00 tot 21:00 uur een sfeervolle krystmerke in en rond de Doarpstsjerke in
-Metslawier. 
+Metslawier.
+
+
+.. image:: http://doarpstsjerke-metslawier.nl/galleries/website/DSC03326.JPG
+    :alt: Tsjerke
+    :width: 300 px
+    :align: center
+
+.. image:: http://doarpstsjerke-metslawier.nl/galleries/website/DSC03315.JPG
+    :alt: Tsjerke
+    :width: 300 px
+    :align: center
+
+
