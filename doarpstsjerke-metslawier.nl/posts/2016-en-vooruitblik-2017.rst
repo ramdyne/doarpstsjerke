@@ -2,7 +2,7 @@
 .. slug: 2016-en-vooruitblik-2017
 .. date: 2016-12-05 23:47:50 UTC+01:00
 .. tags: 
-.. category: 
+.. category: blog 
 .. link: 
 .. description: 
 .. type: text
