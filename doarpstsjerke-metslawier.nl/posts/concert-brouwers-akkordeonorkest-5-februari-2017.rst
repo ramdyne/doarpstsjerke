@@ -7,12 +7,13 @@
 .. description: 
 .. type: text
 
-+---------+----------------------------------------+
-| Datum   | Zondag 5 februari 15:00                |
-+---------+----------------------------------------+
-| Toegang | € 7,50 (inlusief 1 consumptie          |
-|         | € 5,-- voor Freon van de Doarpstsjerke |
-+---------+----------------------------------------+
++---------+-----------------------------------------+
+| Datum   | Zondag 5 februari 15:00                 |
++---------+-----------------------------------------+
+| Toegang | € 7,50 (inlusief 1 consumptie           |
+|         |                                         |
+|         | € 5,-- voor Freon van de Doarpstsjerke  |
++---------+-----------------------------------------+
 
 Op zondagmiddag 5 februari om 15:00 uur verzorgt het "Brouwers Akkordeonorkest" een concert in Mienskipshûs Doarpstsjerke
 Metslawier. Brouwer's Akkordeonorkest (BAO) werd in mei 1955 opgericht door de bekende accordeon- pedagoog Marten Brouwer uit
