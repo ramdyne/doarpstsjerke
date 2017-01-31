@@ -20,6 +20,64 @@ Bankrekeningnummer:
 Financieel Overzicht
 --------------------
 
+Financieel Overzicht Stichting Doarpstsjerke Metslawier over boekjaar 2016 in totalen (afgerond).
+
+Ontvangsten
+-----------
+
++--------------------------------+----------+
+| Nagekomen gift voor oprichting | €  1000  |
++--------------------------------+----------+
+| Giften opening                 | €   815  |
++--------------------------------+----------+
+| Verhuur                        | €  1460  |
++--------------------------------+----------+
+| Opbrengst activiteiten         | €  3450  |
++--------------------------------+----------+
+| Donateurs eenmalig             | €  2420  |
++--------------------------------+----------+
+| Donateurs doorlopend           | €  3425  |
++--------------------------------+----------+
+| Giften algemeen                | €   514  |
++--------------------------------+----------+
+| Consumpties/entree giften      | €   730  |
++--------------------------------+----------+
+| Donateurs zakelijk doorlopend  | €  1000  |
++--------------------------------+----------+
+| Totaal                         | € 14814  |
++--------------------------------+----------+
+
+Uitgaven
+--------
+
++--------------------------------+----------+
+| Interieur                      | €  3365  |
++--------------------------------+----------+
+| Secr./donateurs kosten         | €   948  |
++--------------------------------+----------+
+| Nutsbedrijven                  | €  1500  |
++--------------------------------+----------+
+| Verzekeringen/gem. belasting   | €  2425  |
++--------------------------------+----------+
+| Herstel rouwbord               | €  6536  |
++--------------------------------+----------+
+| Herstel herenbank              | €  3836  |
++--------------------------------+----------+
+| Kosten activiteiten            | €  1165  |
++--------------------------------+----------+
+| Kosten opening                 | €  1090  |
++--------------------------------+----------+
+| Website                        | €    10  |
++--------------------------------+----------+
+| Totaal                         | € 20875  |
++--------------------------------+----------+
+
+Brimsubsidie 2016, na verrekening 50% kosten rouwbord 3237,- nog te besteden / eigen inbreng. 
+
+------------------------------
+Financieel Overzicht 2014/2015
+------------------------------
+
 Financieel Overzicht Stichting Doarpstsjerke Metslawier over boekjaren 2014/2015 in totalen (afgerond).
 
 Ontvangsten
