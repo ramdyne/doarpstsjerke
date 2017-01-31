@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2017-01-31</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/2015/</loc>
@@ -17,12 +17,16 @@
   <lastmod>2016-09-14</lastmod>
  </url>
  <url>
+  <loc>http://doarpstsjerke-metslawier.nl/2017/</loc>
+  <lastmod>2017-01-31</lastmod>
+ </url>
+ <url>
   <loc>http://doarpstsjerke-metslawier.nl/archive.html</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2017-01-31</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/</loc>
-  <lastmod>2016-12-05</lastmod>
+  <lastmod>2017-01-31</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/2016-en-vooruitblik-2017/</loc>
@@ -33,8 +37,16 @@
   <lastmod>2016-09-14</lastmod>
  </url>
  <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/concert-brouwers-akkordeonorkest-5-februari-2017/</loc>
+  <lastmod>2017-01-31</lastmod>
+ </url>
+ <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-fryslan-brass-was-groot-succes/</loc>
   <lastmod>2016-09-14</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-quilts-14-januari-2017.rst/</loc>
+  <lastmod>2017-01-31</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-rein-halbersma-17-september-tot-27-november/</loc>
@@ -58,7 +70,7 @@
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-1.html</loc>
-  <lastmod>2016-12-05</lastmod>
+  <lastmod>2017-01-31</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/informatieavond-watervleermuizen/</loc>
@@ -94,11 +106,19 @@
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/</loc>
-  <lastmod>2016-11-12</lastmod>
+  <lastmod>2017-01-31</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/a-capella/</loc>
   <lastmod>2016-09-14</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/categories/akkordeon/</loc>
+  <lastmod>2017-01-31</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/categories/brouwers/</loc>
+  <lastmod>2017-01-31</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/cat_agenda-concert/</loc>
@@ -171,6 +191,10 @@
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/opening/</loc>
   <lastmod>2016-09-14</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/categories/quilt/</loc>
+  <lastmod>2017-01-31</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/schilderijen/</loc>
