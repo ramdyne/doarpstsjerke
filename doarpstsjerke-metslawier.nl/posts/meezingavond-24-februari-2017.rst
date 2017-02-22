@@ -1,6 +1,6 @@
 .. title: Meezingavond 24 februari 2017
 .. slug: meezingavond-24-februari-2017 
-.. date: 2017-02-18 14:00:00 UTC+02:00
+.. date: 2017-02-24 19:30:00 UTC+02:00
 .. tags: meezingavond,concert
 .. category: agenda 
 .. link: 
@@ -15,6 +15,12 @@
 
 Mienskipshûs Doarpstsjerke Metslawier organiseert een meezingavond op vrijdag 24 februari met het shantykoor ‘De
 Waadseesjongers’ en popkoor ‘Gewoan Oars’ uit Wierum.
+
+
+.. image:: /galleries/20170224_meezingavond/Waadseesjongers%20en%20Gewoan%20Oars.jpg
+    :alt: Waadseesjongers en Gewoan Oars
+    :width: 300 px
+    :align: center
 
 Een gezellige, sfeervolle en muzikale avond voor iedereen! 
 
