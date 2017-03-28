@@ -23,7 +23,7 @@ de oprichters was het publiek in een ontspannen sfeer te laten genieten van muzi
 in het Groningse Bourtange werd opgetreden zonder dirigent en werd de presentatie verzorgd door de eigen leden, waardoor een
 beter contact met het publiek ontstond. 
 
-.. image:: /galleries/agenda/20170328_agenda/Foto's 052 (2).jpg
+.. image:: /galleries/agenda/20170328_agenda/Foto's%20052%20(2).jpg
     :alt: Fryslân Brass
     :width: 300 px
     :align: center
@@ -36,6 +36,6 @@ Fryslân Brass in 2003 een concerttour naar Wenen en Boedapest gemaakt en vervol
 Tsjechië. Fryslân Brass heeft inmiddels een zeer veelzijdig repertoire opgebouwd van klassieke tot moderne amusementsmuziek. 
 Ook de humor ontbreekt niet op het programma.
 
-U bent allen welkom maar Vol – Vol. Dus wilt u zeker zijn van een plaats dan kunt u reserveren door een bericht te sturen naar Stichting.Doarpstjerke.metslawier@outlook.com 
+U bent allen welkom maar Vol = Vol. Dus wilt u zeker zijn van een plaats dan kunt u reserveren door een bericht te sturen naar Stichting.Doarpstjerke.metslawier@outlook.com 
 
 Tijdens het concert is het Mienskipshûs niet open voor bezoekers aan de tentoonstelling.
