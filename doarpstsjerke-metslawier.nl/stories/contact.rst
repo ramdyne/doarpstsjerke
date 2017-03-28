@@ -8,7 +8,7 @@
 .. type: text
 
 | **Adres:**
-| Mienskipshûs Doarpstsjerk
+| Mienskipshûs Doarpstsjerke
 | Tsjerkebuorren 7
 | 9123 JT Metslawier
 
