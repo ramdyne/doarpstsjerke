@@ -7,6 +7,11 @@
 .. description: 
 .. type: text
 
+| **Adres:**
+| Mienskipshûs Doarpstsjerk
+| Tsjerkebuorren 7
+| 9123 JT Metslawier
+
 | **Correspondentieadres:**
 | Stichting Doarpstsjerke Metslawier
 | De Pelfinne 10
