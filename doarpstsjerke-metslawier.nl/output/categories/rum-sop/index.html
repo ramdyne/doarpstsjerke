@@ -3,7 +3,7 @@
     <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>agenda | Stichting Doarpstsjerke Metslawier</title>
+    <title>Berichten over rum sop | Stichting Doarpstsjerke Metslawier</title>
 
     
             <link href="../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -14,7 +14,7 @@
 
     
 
-      <link rel="canonical" href="http://doarpstsjerke-metslawier.nl/galleries/agenda/">
+      <link rel="canonical" href="http://doarpstsjerke-metslawier.nl/categories/rum-sop/">
 
 
 
@@ -25,17 +25,8 @@
     
 
 
+    
 
-
-<link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
-<style type="text/css">
-    .image-block {
-        display: inline-block;
-    }
-    .flowr_row {
-        width: 100%;
-    }
-    </style>
 
 
 </head>
@@ -70,16 +61,16 @@
 <a href="../../mienskipshus/">Mienskipshûs</a>
                 </li>
 <li>
-<a href="../../categories/cat_agenda/">Agenda</a>
+<a href="../cat_agenda/">Agenda</a>
                 </li>
 <li>
 <a href="../../huren/">Huren</a>
                 </li>
 <li>
-<a href="../../categories/cat_blog/">Blog</a>
+<a href="../cat_blog/">Blog</a>
                 </li>
 <li>
-<a href="../">Foto's</a>
+<a href="../../galleries/">Foto's</a>
                 </li>
 <li>
 <a href="../../stichting/">Stichting</a>
@@ -113,29 +104,18 @@
         <div class="row">
             
             
-    
-<nav class="breadcrumbs">
-<ul class="breadcrumb">
-                <li><a href="../">galleries</a></li>
-                <li>agenda</li>
-</ul>
-</nav>
-
-    <h1>agenda</h1>
-    <ul>
-        <li><a href="20160713_agenda/"><i class="glyphicon glyphicon-folder-open"></i> 20160713_agenda</a></li>
-        <li><a href="20170328_agenda/"><i class="glyphicon glyphicon-folder-open"></i> 20170328_agenda</a></li>
-    </ul>
-
-<div id="gallery_container"></div>
-<noscript>
-<ul class="thumbnails">
+<article class="tagpage">
+    <!-- <header>
+        <h1>Berichten over rum sop</h1>
+        <div class="metadata">
+        </div>
+    </header> -->
+    <ul class="postlist">
         <li>
-<a href="150731_Groepsfoto_Rum_Sop.jpg" class="thumbnail image-reference" title="Groepsfoto rum sop">
-            <img src="150731_Groepsfoto_Rum_Sop.thumbnail.jpg" alt="Groepsfoto rum sop"></a>
+<a href="../../blog/concert-rum-sop-16-juni-2017/" class="listtitle">Concert Rûm Sop</a> <time class="listdate" datetime="2017-06-16T20:00:00+02:00" title="2017-06-16 20:00">2017-06-16 20:00</time>
 </li>
-</ul>
-</noscript>
+    </ul>
+</article>
 
         </div>
         <!--End of body content-->
@@ -172,45 +152,6 @@
     </script>
     <!-- end fancy dates -->
     
-<script src="../../assets/js/flowr.plugin.js"></script>
-<script>
-jsonContent = [{"url": "150731_Groepsfoto_Rum_Sop.jpg", "title": "Groepsfoto rum sop", "size": {"h": 110, "w": 180}, "url_thumb": "150731_Groepsfoto_Rum_Sop.thumbnail.jpg"}];
-$("#gallery_container").flowr({
-        data : jsonContent,
-        height : 180*.6,
-        padding: 5,
-        rows: -1,
-        render : function(params) {
-            // Just return a div, string or a dom object, anything works fine
-            img = $("<img />").attr({
-                'src': params.itemData.url_thumb,
-                'width' : params.width,
-                'height' : params.height
-            }).css('max-width', '100%');
-            link = $( "<a></a>").attr({
-                'href': params.itemData.url,
-                'class': 'image-reference'
-            });
-            div = $("<div />").addClass('image-block').attr({
-                'title': params.itemData.title,
-                'data-toggle': "tooltip",
-            });
-            link.append(img);
-            div.append(link);
-            div.hover(div.tooltip());
-            return div;
-        },
-        itemWidth : function(data) { return data.size.w; },
-        itemHeight : function(data) { return data.size.h; },
-        complete : function(params) {
-            if( jsonContent.length > params.renderedItems ) {
-                nextRenderList = jsonContent.slice( params.renderedItems );
-            }
-        }
-    });
-$("a.image-reference").colorbox({rel:"gal", maxWidth:"100%",maxHeight:"100%",scalePhotos:true});
-</script>
-
 
 
 </body>
