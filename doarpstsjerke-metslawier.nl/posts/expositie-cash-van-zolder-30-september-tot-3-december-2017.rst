@@ -1,6 +1,6 @@
 .. title: Expositie Cash van Zolder 30 september t/m 3 december 2017
 .. slug: expositie-cash-van-zolder-30-september-tot-3-december-2017.rst
-.. date: 2017-09-30 13:00:00 UTC+02:00
+.. date: 2017-09-30 13:30:00 UTC+02:00
 .. tags: expositie
 .. category: agenda
 .. link: 
