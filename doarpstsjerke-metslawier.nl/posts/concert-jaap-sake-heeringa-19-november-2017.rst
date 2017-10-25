@@ -1,4 +1,4 @@
-.. title: Concert 
+.. title: Concert Orgelimprovisaties Jaap Sake Heeringa 
 .. slug: concert-jaap-sake-heeringa-19-november-20177
 .. date: 2017-11-19 15:00:00 UTC+02:00
 .. tags: concert,orgel
