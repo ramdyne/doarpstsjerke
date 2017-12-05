@@ -1,4 +1,4 @@
-.. title: Wintermerke 17 December
+.. title: Wintermerke 16 December
 .. slug: wintermerke-16-december-2017
 .. date: 2017-12-16 15:00:00 UTC+02:00
 .. tags: kerst,markt,kerstmarkt
