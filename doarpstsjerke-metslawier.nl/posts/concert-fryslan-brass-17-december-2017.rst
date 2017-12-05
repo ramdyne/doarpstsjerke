@@ -15,7 +15,7 @@
 |         | € 7,50 voor donateur                    |
 +---------+-----------------------------------------+
 
-n de nog sfeervol versierde Doarpstsjerke geeft op 17 december om 15:00 uur de dit jaar
+In de nog sfeervol versierde Doarpstsjerke geeft op 17 december om 15:00 uur de dit jaar
 jubilerende kopergroep Fryslân Brass een concert in Mienskipshûs Doarpstsjerke in
 Metslawier. Voor deze middag heeft men een programma samengesteld om u alvast in de
 kerstsfeer te brengen.
