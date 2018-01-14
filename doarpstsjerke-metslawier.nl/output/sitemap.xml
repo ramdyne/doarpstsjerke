@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/</loc>
-  <lastmod>2017-01-31</lastmod>
+  <lastmod>2018-01-14</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/2015/</loc>
@@ -21,12 +21,16 @@
   <lastmod>2017-01-31</lastmod>
  </url>
  <url>
+  <loc>http://doarpstsjerke-metslawier.nl/2018/</loc>
+  <lastmod>2018-01-14</lastmod>
+ </url>
+ <url>
   <loc>http://doarpstsjerke-metslawier.nl/archive.html</loc>
   <lastmod>2018-01-14</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/</loc>
-  <lastmod>2017-12-05</lastmod>
+  <lastmod>2018-01-14</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/2016-en-vooruitblik-2017/</loc>
@@ -49,6 +53,22 @@
   <lastmod>2017-03-13</lastmod>
  </url>
  <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/27ste-kunst-aan-huis-atelierroute-lauwersland-10-maart-2018/</loc>
+  <lastmod>2018-01-14</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/27ste-kunst-aan-huis-atelierroute-lauwersland-11-maart-2018/</loc>
+  <lastmod>2018-01-14</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/27ste-kunst-aan-huis-atelierroute-lauwersland-17-maart-2018/</loc>
+  <lastmod>2018-01-14</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/27ste-kunst-aan-huis-atelierroute-lauwersland-18-maart-2018/</loc>
+  <lastmod>2018-01-14</lastmod>
+ </url>
+ <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/close-harmony-en-a-capella-van-vocal-group-stim-23-oktober-2016/</loc>
   <lastmod>2016-09-14</lastmod>
  </url>
@@ -59,6 +79,10 @@
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-brouwers-akkordeonorkest-5-februari-2017/</loc>
   <lastmod>2017-01-31</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/concert-byzantijns-mannenkoor-friesland-18-maart-2018/</loc>
+  <lastmod>2018-01-14</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-classic-rock-21-mei-2017/</loc>
@@ -81,8 +105,16 @@
   <lastmod>2017-10-25</lastmod>
  </url>
  <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/concert-muziekgroep-kapriol-10-juni-2018/</loc>
+  <lastmod>2018-01-14</lastmod>
+ </url>
+ <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-rum-sop-16-juni-2017/</loc>
   <lastmod>2017-06-12</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/concert-thijs-kevenaar-29-april-2018/</loc>
+  <lastmod>2018-01-14</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-cash-van-zolder-30-september-tot-3-december-2017.rst/</loc>
@@ -95,6 +127,14 @@
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-henk-pietersma-25-maart-tot-9-april-2017/</loc>
   <lastmod>2017-03-13</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-merklappen-en-letterdoeken-7-april-tot-3-juni-2018/</loc>
+  <lastmod>2018-01-14</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-pyr-bosma-6-januari-tot-4-maart-2018/</loc>
+  <lastmod>2018-01-14</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-quilts-14-januari-2017.rst/</loc>
@@ -130,6 +170,10 @@
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-3.html</loc>
+  <lastmod>2018-01-14</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/index-4.html</loc>
   <lastmod>2018-01-14</lastmod>
  </url>
  <url>
@@ -182,7 +226,7 @@
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/</loc>
-  <lastmod>2017-12-05</lastmod>
+  <lastmod>2018-01-14</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/a-capella/</loc>
@@ -191,6 +235,14 @@
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/akkordeon/</loc>
   <lastmod>2017-01-31</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/categories/akoustische-gitaar/</loc>
+  <lastmod>2018-01-14</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/categories/beeldhouwwerk/</loc>
+  <lastmod>2018-01-14</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/blaasmuziek/</loc>
@@ -277,6 +329,14 @@
   <lastmod>2016-11-12</lastmod>
  </url>
  <url>
+  <loc>http://doarpstsjerke-metslawier.nl/categories/koor/</loc>
+  <lastmod>2018-01-14</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/categories/letterdoeken/</loc>
+  <lastmod>2018-01-14</lastmod>
+ </url>
+ <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/markt/</loc>
   <lastmod>2016-11-12</lastmod>
  </url>
@@ -285,12 +345,20 @@
   <lastmod>2017-02-22</lastmod>
  </url>
  <url>
+  <loc>http://doarpstsjerke-metslawier.nl/categories/merklappen/</loc>
+  <lastmod>2018-01-14</lastmod>
+ </url>
+ <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/opening/</loc>
   <lastmod>2016-09-14</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/orgel/</loc>
   <lastmod>2017-10-25</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/categories/pronkrollen/</loc>
+  <lastmod>2018-01-14</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/quilt-bee/</loc>
