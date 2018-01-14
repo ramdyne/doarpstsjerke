@@ -1,6 +1,6 @@
 .. title: Expositie Pyr Bosma - 6 januari tot 4 maart 2018
 .. slug: expositie-pyr-bosma-6-januari-tot-4-maart-2018 
-.. date: 2018-01-16 13:30:00 UTC+02:00
+.. date: 2018-01-06 13:30:00 UTC+02:00
 .. tags: beeldhouwwerk,expositie
 .. category: agenda
 .. link: 
