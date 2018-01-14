@@ -1,6 +1,6 @@
 .. title: Expositie Merklappen en Letterdoeken Aukje de Boer-Holwerda  - 7 april tot 3 juni 2018
 .. slug: expositie-merklappen-en-letterdoeken-7-april-tot-3-juni-2018 
-.. date: 2018-01-16 13:30:00 UTC+02:00
+.. date: 2018-04-07 13:30:00 UTC+02:00
 .. tags: expositie,merklappen,letterdoeken,pronkrollen
 .. category: agenda
 .. link: 
