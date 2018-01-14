@@ -22,12 +22,8 @@ Openingstijden
 
 Daarnaast zal het Mienskipshûs op afspraak en op speciaal aangegeven momenten geopend zijn.
 
-----------------------------------------
-Fryske Lânskipskilders en Doarpstsjerken
-----------------------------------------
-
-Van 19-3-2016 tot en met 15-05-2016 is er in de Doarpstsjerke Metslawier een expositie te zien van Friese landschapschilders. 
-Vanuit zijn collectie heeft Freark van der Bij een expositie samengesteld waarin Doarpstsjerken een rol spelen. Het betreft
-werk van onder meer Pier Feddema, Klaas en Gosse Koopmans, Jan Frearks van der Bij, Meinte Walta, Cor Reinsma, Bouke en
-Andries van der Sloot, Johannes Elzinga en anderen.
-
+- U bent welkom bij activiteiten maar Vol = Vol. Dus wilt u zeker zijn van een plaats dan kunt u nu al reserveren door een bericht te sturen naar Stichting.Doarpstjerke.metslawier@outlook.com
+- Tijdens de openingstijden bent u van harte welkom om de doarpstsjerke en de expositie te bezoeken. U mag ook langs komen voor een praatje tijdens een kop koffie of thee.
+- Mienskipshûs Doarpstsjerkekankan ook `gehuurd worden of gebruikt worden voor trouw- of rouwdiensten <http://doarpstsjerke-metslawier.nl/huren/>`_. Zelfs het burgerlijk huwelijk is in dit gebouw mogelijk.
+- Op afspraak zijn ook groepen welkom. In overleg kan hiervoor een speciaal programma gemaakt worden met rondleidingen door tsjerke en/of dorp. We kunnen u een gezellige en boeiende middag bezorgen. Goede ideeën voor activiteiten zijn welkom.
+- Tijdens concerten of andere activiteiten is de expositie gesloten, zie hiervoor de `agenda <http://doarpstsjerke-metslawier.nl/categories/cat_agenda/>`_
