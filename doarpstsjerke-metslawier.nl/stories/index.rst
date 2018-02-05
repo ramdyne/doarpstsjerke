@@ -17,5 +17,8 @@ Behoud Kerkelijke Gebouwen in Friesland, het Provinciale Deltateam Functieverand
 Plattelansprojecten Noordoost Friesland vanuit `onze visie </visie/>`_ bezig gehouden met het ontwikkelen van een duurzaam plan
 voor het behoud en het multifunctioneel gebruik van de "Doarpstsjerke Mitselwier".
 
-Lees ons `blog </categories/cat_blog/>`_ voor nieuws over de Doarpstsjerke. Kijk in de `agenda </categories/cat_agenda/>`_ voor evenementen in de
-doarpstsjerke.
+Lees ons `blog </categories/cat_blog/>`_ voor nieuws over de Doarpstsjerke. Kijk in de `agenda </categories/cat_agenda/>`_ voor evenementen in de doarpstsjerke.
+
+Een aantal prijzen uit de loterij van de Wintermerke 2017 zijn nog niet geclaimd. Kijk op `hier
+<http://doarpstsjerke-metslawier.nl/blog/openstaande-loten-kerst-2017/>`_ voor de nummers waar prijzen op
+zijn gevallen

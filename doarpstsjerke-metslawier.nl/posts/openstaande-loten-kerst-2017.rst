@@ -9,4 +9,4 @@
 
 Op de Wintermerke was er een verloting, tijdens de trekking van de loten waren een aantal prijswinnaars niet aanwezig.
 De prijzen van de lotnummers 64, 445 en 946 hebben we nog niet kunnen overhandigen aan de winnaars. Heeft u een van deze
-lotnummers, neem dan kontact op zodat u uw prijs kunt ontvangen.
+lotnummers, neem dan `contact <http://doarpstsjerke-metslawier.nl/contact/>`_ op zodat u uw prijs kunt ontvangen.
