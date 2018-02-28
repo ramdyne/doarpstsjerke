@@ -15,8 +15,19 @@
 |         | € 10,-- voor Freon van de Doarpstsjerke |
 +---------+-----------------------------------------+
 
-Het Byzantijns Mannenkoor Friesland (BMF) uit Drachten komt op 18 maart een optreden verzorgen in de Doarpstsjerke. 
-Het koor is opgericht in september 2004, telt nu 26 enthousiaste leden en staat sinds april 2007 onder leiding van dirigente Nana Tchikhinashvili
-Het koor heeft als doelstelling bekendheid te geven aan de Russisch-orthodoxe kerkmuziek en vertolkt daarnaast volksliederen
-uit Oost-Europese landen.
+Het Byzantijns Mannenkoor Friesland uit Drachten is opgericht in september 2004 en telt momenteel 24 enthousiaste leden. Het
+koor heeft als doelstelling meer bekendheid te geven aan de Russisch-orthodoxe kerkmuziek en vertolkt daarnaast volksliederen
+uit Oost-Europa. 
+
+.. image:: http://mitselwier.nl/wp-content/uploads/2018/02/Foto-Byzaantijns-manenkoor.jpg
+    :alt: Byzantijns mannenkoor
+    :width: 300 px
+    :align: center
+
+Sinds april 2007 staat het koor onder leiding van Nana Tchikhinashvili. Zij is geboren en getogen in
+Tbilisi(Georgië) en zong daar vanaf haar zesde jaar in diverse koren. Tijdens haar studie werd mevr. Tchikhinashvili
+aangesteld als dirigent van het Academisch Staatskoor. Bij hetzelfde koor zong ze ook als professioneel concertzangeres.
+Sinds haar komst naar Nederland is zij werkzaam als gastdocent, dirigent en ook als solist bij diverse concerten. Met haar
+bijzondere stijl van dirigeren (omschreven als zingen met je handen), wil zij een klankkleur bereiken die de ziel van een
+muziekstuk bloot legt. 
 
