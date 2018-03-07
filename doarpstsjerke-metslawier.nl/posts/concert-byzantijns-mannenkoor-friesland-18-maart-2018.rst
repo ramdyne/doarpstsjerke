@@ -15,7 +15,7 @@
 |         | € 10,-- voor Freon van de Doarpstsjerke |
 +---------+-----------------------------------------+
 
-Het Byzantijns Mannenkoor Friesland uit Drachten is opgericht in september 2004 en telt momenteel 24 enthousiaste leden. Het
+Het `Byzantijns Mannenkoor Friesland <http://www.bmfdrachten.nl/>`_ uit Drachten is opgericht in september 2004 en telt momenteel 24 enthousiaste leden. Het
 koor heeft als doelstelling meer bekendheid te geven aan de Russisch-orthodoxe kerkmuziek en vertolkt daarnaast volksliederen
 uit Oost-Europa. 
 
