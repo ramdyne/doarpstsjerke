@@ -17,6 +17,13 @@
 
 `Schraapstaal <http://www.schraapstaal.nl/>`_ speelt West-Europese folkmuziek, dus liedjes en melodieën uit De Lage
 Landen, Engeland, Frankrijk, Ierland, Italië en Zweden.
+
+
+.. image:: /galleries/agenda/P1010053%20(Aangepast).jpeg
+    :alt: Schraapstaal
+    :width: 300 px
+    :align: center
+
 Muziek vanuit een traditie met een hedendaagse invulling. ze mengen nieuwe en oude
 liedjes met traditionele of gecomponeerde dansdeunen. Zo blazen ze oude muziek nieuw
 leven in en brengen nieuwe muziek als herkenbare folk. Dat doen ze op intieme concerten,
