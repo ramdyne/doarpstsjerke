@@ -1,4 +1,4 @@
-.. title: Workshop naaldvilt werken met wol 6 Augustus 2018
+.. title: Workshop naaldvilt werken met wol 3 Augustus 2018
 .. slug: workshop-naaldvilt-werken-met-wol-3-augustus-2018
 .. date: 2018-08-03 10:00:00 UTC+02:00
 .. tags: workshop,naaldvilt
