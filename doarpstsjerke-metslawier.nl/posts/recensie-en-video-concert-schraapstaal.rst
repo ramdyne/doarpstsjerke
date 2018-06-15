@@ -12,7 +12,8 @@ Rennie Veenstra schreef onderstaande recensie van het concert van Schraapsaal va
 Of de naam van de groep nu iets te maken heeft met ‘staal’ dan wel met ‘taal’, feit is, dat
 ‘Schraapstaal’ een folkmuziekgroep is van formaat.
 
-.. raw html
+.. raw:: html
+
     <div align="center">
          <img src="/galleries/2018/06/10_schraapstaal/Metslawier 4.thumbnail.JPG" alt="Schraapstaal"><br/>
          Foto: Sjoerd Hania
@@ -51,7 +52,7 @@ dit weemoedige nummer tot lachen.
 Enfin, het leverde haar de goodwill op van het publiek, dat met volle teugen genoot van dit concert
 en maar wat graag een bijdrage leverde aan het refrein van het laatste nummer.
 
-.. raw html
+.. raw:: html
 
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5I8Y4LV28-g?rel=0" frameborder="0"
     allow="autoplay; encrypted-media" allowfullscreen></iframe>
