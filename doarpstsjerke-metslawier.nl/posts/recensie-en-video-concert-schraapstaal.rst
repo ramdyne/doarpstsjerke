@@ -15,7 +15,7 @@ Of de naam van de groep nu iets te maken heeft met ‘staal’ dan wel met ‘ta
 .. raw:: html
 
     <div align="center">
-         <img src="/galleries/2018/06/10_schraapstaal/Metslawier 4.thumbnail.JPG" alt="Schraapstaal"><br/>
+         <img src="/galleries/20180610_schraapstaal/Metslawier 4.thumbnail.JPG" alt="Schraapstaal"><br/>
          Foto: Sjoerd Hania
          </div>
 
