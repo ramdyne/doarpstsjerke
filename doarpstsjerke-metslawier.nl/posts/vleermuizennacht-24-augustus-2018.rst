@@ -7,16 +7,20 @@
 .. description: 
 .. type: text
 
-De nacht van de vleermuis is dit jaar van 24 op 25 augustus hieraan wordt dit jaar door het
-Mienskipshûs Doarpstsjerke Metslawier aandacht geschonken door op 24 augustus om 20:30 uur
-een bijeenkomst te organiseren. Tijdens deze avond wordt de korte film getoond die vorige zomer is gemaakt van de vleermuizen in
-de kraamkamer op de zolder van de Tsjerke.
+Het kerkgebouw van Mienskipshûs doarptsjerke Metslawier biedt onderdak aan één van de grootste
+kraamkolonies aan watervleermuizen in Nederland. Daar zijn we maar wat trots op! Daarom
+presenteren we ook dit jaar weer een programma in het kader van de Nacht van de Vleermuis.
+Vleermuizenkenner Johann Prescher vertelt over het leven van de vleermuizen in en rond de tsjerke.
+Johann doet onderzoek naar vleermuizen en komt regelmatig langs om de kolonies in kaart te
+brengen.
 
-Het voorlopig programma ziet er als volgt uit:
-Ontvangst met koffie/thee
-Woord van Welkom
-Vleermuizen in Metslawier door Johann Prescher
-Film van Landgoed Verhildersum gemaakt door Bob Jonge Poerink
-Korte Film van de vleermuizen in de Doarpstsjerke van Metslawier gemaakt door Bob Jonge Poerink
-Sluiting / Pauze.
-Als het weer het toelaat observatie watervleermuizen rond de Tsjerke.
+Bob Jong Poerink vertoont zijn film die hij heeft gemaakt over de vleermuizen die zijn te vinden op
+het landgoed Verhildersum in Groningen. Ook in Metslawier heeft hij opnames gemaakt.
+
+Uiteraard krijgt u volop gelegenheid voor het stellen van vragen.
+
+Als het weer het toelaat, is er daarna onder leiding van Johann, een observatie van de vleermuizen
+rondom de kerk.
+
+De toegang is gratis. Een gift wordt natuurlijk op prijs gesteld.
+
