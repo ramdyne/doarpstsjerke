@@ -19,11 +19,10 @@ voor het behoud en het multifunctioneel gebruik van de "Doarpstsjerke Mitselwier
 
 Lees ons `blog </categories/cat_blog/>`_ voor nieuws over de Doarpstsjerke. Kijk in de `agenda </categories/cat_agenda/>`_ voor evenementen in de doarpstsjerke.
 
-`Oproep <http://doarpstsjerke-metslawier.nl/blog/oproep-verkooptentoonstelling-brocante-curiosa-2018/>`_ objecten voor
-brocante/curiosa verkoop.
-
-`5000e bezoeker <http://doarpstsjerke-metslawier.nl/blog/5000e-bezoeker-in-de-doarpstsjerke-metslawier/>`_ in de
-Doarpstsjerke Metslawier.
+- `Video van vleermuizen in de kerk </blog/video-vleermuizen/>`_ 
+- `Oproep <http://doarpstsjerke-metslawier.nl/blog/oproep-verkooptentoonstelling-brocante-curiosa-2018/>`_ objecten voor
+  brocante/curiosa verkoop.
+- `5000e bezoeker <http://doarpstsjerke-metslawier.nl/blog/5000e-bezoeker-in-de-doarpstsjerke-metslawier/>`_ in de Doarpstsjerke Metslawier.
 
 Een aantal prijzen uit de loterij van de Wintermerke 2017 zijn nog niet geclaimd. Kijk op `hier
 <http://doarpstsjerke-metslawier.nl/blog/openstaande-loten-kerst-2017/>`_ voor de nummers waar prijzen op
