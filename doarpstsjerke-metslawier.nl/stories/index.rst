@@ -19,6 +19,7 @@ voor het behoud en het multifunctioneel gebruik van de "Doarpstsjerke Mitselwier
 
 Lees ons `blog </categories/cat_blog/>`_ voor nieuws over de Doarpstsjerke. Kijk in de `agenda </categories/cat_agenda/>`_ voor evenementen in de doarpstsjerke.
 
+- `Openingstijden eind december 2018 <blog/tsjerke_openingstijden_eind_december_2018/>`_
 - `Video van vleermuizen in de kerk </blog/video-vleermuizen/>`_ 
 - `Oproep <http://doarpstsjerke-metslawier.nl/blog/oproep-verkooptentoonstelling-brocante-curiosa-2018/>`_ objecten voor
   brocante/curiosa verkoop.
