@@ -1,4 +1,4 @@
-.. title: Expositie kantklos en kantkunst door A. Mellema
+.. title: Expositie kantklos en kantkunst van 13 april tot 30 juni 2019
 .. slug: expositie-kantklos-en-kantkunst-13-april-tot-30-juni 
 .. date: 2019-04-13 13:30:00 UTC+02:00
 .. tags: expositie,kantklos,kantkunst

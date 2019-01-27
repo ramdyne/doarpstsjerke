@@ -1,4 +1,4 @@
-.. title: Expositie De Kunstgreep 12 janurai tot 10 maart 2019
+.. title: Expositie De Kunstgreep 12 januari tot 10 maart 2019
 .. slug: expositie-de-kunstgreep-12-januari-tot-10-maart
 .. date: 2019-01-12 13:30:00 UTC+01:00
 .. tags: expositie,tekeningen,schilderijen
