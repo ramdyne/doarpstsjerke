@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/</loc>
-  <lastmod>2019-01-27</lastmod>
+  <lastmod>2019-03-04</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/2015/</loc>
@@ -30,7 +30,7 @@
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/archive.html</loc>
-  <lastmod>2019-01-27</lastmod>
+  <lastmod>2019-03-04</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/</loc>
@@ -194,31 +194,31 @@
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-1.html</loc>
-  <lastmod>2019-01-26</lastmod>
+  <lastmod>2019-03-04</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-2.html</loc>
-  <lastmod>2019-01-26</lastmod>
+  <lastmod>2019-03-04</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-3.html</loc>
-  <lastmod>2019-01-26</lastmod>
+  <lastmod>2019-03-04</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-4.html</loc>
-  <lastmod>2019-01-26</lastmod>
+  <lastmod>2019-03-04</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-5.html</loc>
-  <lastmod>2019-01-26</lastmod>
+  <lastmod>2019-03-04</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-6.html</loc>
-  <lastmod>2019-01-27</lastmod>
+  <lastmod>2019-03-04</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-7.html</loc>
-  <lastmod>2019-01-27</lastmod>
+  <lastmod>2019-03-04</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/informatieavond-watervleermuizen/</loc>
@@ -659,6 +659,10 @@
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/mienskipshus/</loc>
   <lastmod>2016-09-14</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/privacy/</loc>
+  <lastmod>2019-03-04</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/stichting/</loc>
