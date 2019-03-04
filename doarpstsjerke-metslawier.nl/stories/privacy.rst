@@ -15,7 +15,7 @@ verzamelen en hoe wij deze gegevens gebruiken. Deze privacy policy en cookie pol
 website *www.doarpstsjerke-metslawier.nl* en eventuele apps welke onder verantwoordelijkheid van Stichting Doarpstsjerke
 Metslawier is gemaakt.
 
-+----------------------------------------------------------+
++---------------------+------------------------------------+
 | Naam bedrijf        | Stichting Doarpstsjerke Metslawier |
 +---------------------+------------------------------------+
 | Website             | www.doarpstsjerke-metslawier.nl    |
