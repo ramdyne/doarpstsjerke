@@ -1,4 +1,4 @@
-.. title: Expositie De Kunstgreep 12 januari tot 10 maart 2019
+.. title: Expositie De Kunstgreep 12 januari tot 7 april 2019
 .. slug: expositie-de-kunstgreep-12-januari-tot-10-maart
 .. date: 2019-01-12 13:30:00 UTC+01:00
 .. tags: expositie,tekeningen,schilderijen
@@ -7,12 +7,14 @@
 .. description: 
 .. type: text
 
+De tentoonstelling die gepland stond tot 10 maart wordt verlengd tot en met 7 april.
+
 Met de expositie “De Kunstgreep” opent het Mienskipshûs Doarpstsjerke Metslawier
 het jaar 2019.
 
 Het Mienskipshûs biedt een podium aan kunstenaars die verbonden zijn aan de
-streek en deze expositie past hier goed bij. De expositie is vanaf 12 januari t/m 10
-maart vrij te bezichtigen tijdens de openingstijden elke zaterdag en zondag tussen
+streek en deze expositie past hier goed bij. De expositie is vanaf 12 januari t/m 7
+april vrij te bezichtigen tijdens de openingstijden elke zaterdag en zondag tussen
 13:30 en 17 uur.
 
 De Kunstgreep is een dagbestedingslocatie van zorgorganisatie Wil. Mensen met
