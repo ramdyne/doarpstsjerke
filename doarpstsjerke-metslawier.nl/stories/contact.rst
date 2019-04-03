@@ -14,8 +14,8 @@
 
 | **Correspondentieadres:**
 | Stichting Doarpstsjerke Metslawier
-| De Pelfinne 10
-| 9123 JK Metslawier
+| Stationsweg 9
+| 9123 JZ Metslawier
 
 Email:
     `Stichting.Doarpstsjerke.Metslawier@outlook.com <mailto:Stichting.Doarpstsjerke.Metslawier@outlook.com>`_
