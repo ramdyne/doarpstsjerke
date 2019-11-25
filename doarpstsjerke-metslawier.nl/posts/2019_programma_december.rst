@@ -1,6 +1,6 @@
 .. title: Programma Mienskipshûs Doarpstsjerke Metslawier van 30 november t/m 22 december 2019.
 .. slug: 2019_programma_december
-.. date: 2017-06-11 23:47:50 UTC+01:00
+.. date: 2019-11-24 20:14:50 UTC+01:00
 .. tags: 
 .. category: blog 
 .. link: 
