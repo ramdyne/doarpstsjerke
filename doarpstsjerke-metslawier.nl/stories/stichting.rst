@@ -10,7 +10,7 @@
 +----------------+-----------------+
 | Voorzitter     | Freark v.d. Bij |
 +----------------+-----------------+
-| Secretaris     | Mente Holwerda  |
+| Secretaris     | vacant          |
 +----------------+-----------------+
 | Penningmeester | Hette Meinema   |
 +----------------+-----------------+
