@@ -1,735 +1,808 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/</loc>
-  <lastmod>2019-03-04</lastmod>
+  <lastmod>2020-01-09T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/2015/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/2016/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/2017/</loc>
-  <lastmod>2017-01-31</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/2018/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/2019/</loc>
-  <lastmod>2019-01-27</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/2020/</loc>
+  <lastmod>2020-01-09T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/archive.html</loc>
-  <lastmod>2019-03-04</lastmod>
+  <lastmod>2020-01-09T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/</loc>
-  <lastmod>2019-11-25</lastmod>
+  <lastmod>2020-01-09T01:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/%20expositie-froukje-reitsma-30-juni-tot-9-september-2018%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/2016-en-vooruitblik-2017/</loc>
-  <lastmod>2016-12-05</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/2019_programma_december/</loc>
-  <lastmod>2019-11-25</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/26ste-kunst-aan-huis-atelierroute-lauwersland-11-maart/</loc>
-  <lastmod>2017-03-13</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/26ste-kunst-aan-huis-atelierroute-lauwersland-12-maart/</loc>
-  <lastmod>2017-03-13</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/26ste-kunst-aan-huis-atelierroute-lauwersland-18-maart/</loc>
-  <lastmod>2017-03-13</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/26ste-kunst-aan-huis-atelierroute-lauwersland-19-maart/</loc>
-  <lastmod>2017-03-13</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/27ste-kunst-aan-huis-atelierroute-lauwersland-10-maart-2018%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/27ste-kunst-aan-huis-atelierroute-lauwersland-10-maart-2018/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/27ste-kunst-aan-huis-atelierroute-lauwersland-11-maart-2018%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/27ste-kunst-aan-huis-atelierroute-lauwersland-11-maart-2018/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/27ste-kunst-aan-huis-atelierroute-lauwersland-17-maart-2018%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/27ste-kunst-aan-huis-atelierroute-lauwersland-17-maart-2018/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/27ste-kunst-aan-huis-atelierroute-lauwersland-18-maart-2018%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/27ste-kunst-aan-huis-atelierroute-lauwersland-18-maart-2018/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/5000e-bezoeker-in-de-doarpstsjerke-metslawier/</loc>
-  <lastmod>2018-07-31</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/close-harmony-en-a-capella-van-vocal-group-stim-23-oktober-2016/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-bluswater-24-september-2017/</loc>
-  <lastmod>2017-09-23</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-brouwers-akkordeonorkest-5-februari-2017/</loc>
-  <lastmod>2017-01-31</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/concert-byzantijns-mannenkoor-friesland-18-maart-2018%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-byzantijns-mannenkoor-friesland-18-maart-2018/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/concert-chriskalsbeek-10-november%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-chriskalsbeek-10-november/</loc>
-  <lastmod>2019-11-11</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-chriskalsbeek-geertveldstra-21-april-2019/</loc>
-  <lastmod>2019-04-04</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-classic-rock-21-mei-2017/</loc>
-  <lastmod>2017-06-12</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/concert-et-hepera-5-mei-2019%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-et-hepera-5-mei-2019/</loc>
-  <lastmod>2019-04-04</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-fryslan-brass-16-december-2018/</loc>
-  <lastmod>2018-10-30</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-fryslan-brass-17-december-2017/</loc>
-  <lastmod>2017-12-05</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-fryslan-brass-2-april-2017/</loc>
-  <lastmod>2017-03-28</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-fryslan-brass-22-december-2019/</loc>
-  <lastmod>2019-11-25</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-fryslan-brass-was-groot-succes/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-jaap-sake-heeringa-19-november-20177/</loc>
-  <lastmod>2017-10-25</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-jankfoddekoor-wal-schip-4-november-2018/</loc>
-  <lastmod>2018-10-30</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/concert-muziekgroep-kapriol-10-juni-2018%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-muziekgroep-kapriol-10-juni-2018/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-rum-sop-16-juni-2017/</loc>
-  <lastmod>2017-06-12</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-schraapstaal-10-juni-2018/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/concert-thijs-kevenaar-29-april-2018/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-cash-van-zolder-30-september-tot-3-december-2017.rst/</loc>
-  <lastmod>2017-09-23</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-de-kunstgreep-12-januari-tot-10-maart/</loc>
-  <lastmod>2019-01-27</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-durkje-haringa-15-april-tot-25-juni-2017/</loc>
-  <lastmod>2017-03-28</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-froukje-reitsma-30-juni-tot-9-september-2018/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-henk-pietersma-25-maart-tot-9-april-2017/</loc>
-  <lastmod>2017-03-13</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-kantklos-en-kantkunst-13-april-tot-30-juni%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-kantklos-en-kantkunst-13-april-tot-30-juni/</loc>
-  <lastmod>2019-01-27</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-merklappen-en-letterdoeken-7-april-tot-3-juni-2018%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-merklappen-en-letterdoeken-7-april-tot-3-juni-2018/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-pyr-bosma-6-januari-tot-4-maart-2018%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-pyr-bosma-6-januari-tot-4-maart-2018/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-quilts-14-januari-2017.rst%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-quilts-14-januari-2017.rst/</loc>
-  <lastmod>2017-01-31</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/expositie-rein-halbersma-17-september-tot-27-november/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/fotos-binnen-en-buitenkant/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/fotos-opening-wad-van-west-tot-oost/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/grafzerk/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/harp-concert-door-leona-leppers-20-november-2016/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-1.html</loc>
-  <lastmod>2019-03-04</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-2.html</loc>
-  <lastmod>2019-03-04</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-3.html</loc>
-  <lastmod>2019-11-25</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-4.html</loc>
-  <lastmod>2019-11-25</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-5.html</loc>
-  <lastmod>2019-11-25</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-6.html</loc>
-  <lastmod>2019-11-25</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/index-7.html</loc>
-  <lastmod>2019-11-25</lastmod>
+  <lastmod>2020-01-09T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/informatieavond-watervleermuizen/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/kerstmarkt-10-december-2016/</loc>
-  <lastmod>2016-11-12</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/kerstmarkt-11-december-2016/</loc>
-  <lastmod>2016-11-12</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/komende-activiteiten-2e-helft-2017/</loc>
-  <lastmod>2017-06-12</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/meezingavond-24-februari-2017%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/meezingavond-24-februari-2017/</loc>
-  <lastmod>2017-02-22</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/opening-mienskipshus-doarpstsjerke-metslawier/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/openstaande-loten-kerst-2017/</loc>
-  <lastmod>2018-02-05</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/oproep-verkooptentoonstelling-brocante-curiosa-2018/</loc>
-  <lastmod>2018-07-31</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/quilt-bee-18-februari-2017%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/quilt-bee-18-februari-2017/</loc>
-  <lastmod>2017-02-22</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/recensie-en-video-concert-schraapstaal/</loc>
-  <lastmod>2018-06-15</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/schilderijententoonstelling-winter-yn-fryslan/</loc>
-  <lastmod>2016-12-05</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/tentoonstelling-curieuze-brocante/</loc>
-  <lastmod>2018-10-30</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/tentoonstelling-fryske-winters-11-januari-2020/</loc>
+  <lastmod>2020-01-09T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/tentoonstelling-nijsgjirrich-goud-28-september-2019/</loc>
-  <lastmod>2019-11-11</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://doarpstsjerke-metslawier.nl/blog/tsjerke_openingstijden_eind_december_2018%20/</loc>
+  <lastmod>2020-01-08T22:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/tsjerke_openingstijden_eind_december_2018/</loc>
-  <lastmod>2018-10-30</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/tsjerkepaad-1-september-2018/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/tsjerkepaad-11-augustus-2018/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/tsjerkepaad-14-juli-2018/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/tsjerkepaad-18-augustus-2018/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/tsjerkepaad-21-juli-2018/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/tsjerkepaad-25-augustus-2018/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/tsjerkepaad-28-juli-2018/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/tsjerkepaad-4-augustus-2018/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/tsjerkepaad-7-juli-2018/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/video-vleermuizen/</loc>
-  <lastmod>2018-10-16</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/vleermuizen/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/vleermuizennacht-24-augustus-2018/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/vleermuizentelling-2016/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/vleermuizentelling-2018/</loc>
-  <lastmod>2018-06-15</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/wad-van-west-tot-oost-9-juli-tot-10-september-2016/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/wereldlichtjesdag-8-december-2019/</loc>
-  <lastmod>2019-11-25</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/wintermerke-16-december-2017/</loc>
-  <lastmod>2017-12-05</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/wintermerke-8-december-2018/</loc>
-  <lastmod>2018-10-30</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/workshop-naaldvilt-werken-met-wol-3-augustus-2018/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/blog/workshop-naaldvilt-werken-met-wol-6-juli-2018/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/</loc>
-  <lastmod>2019-11-25</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/a-capella/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/akkordeon/</loc>
-  <lastmod>2017-01-31</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/akoustische-gitaar/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/beeldhouwwerk/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/blaasmuziek/</loc>
-  <lastmod>2017-03-28</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/bluswater/</loc>
-  <lastmod>2017-09-23</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/brocante/</loc>
-  <lastmod>2018-07-31</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/brouwers/</loc>
-  <lastmod>2017-01-31</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/cat_agenda-concert/</loc>
-  <lastmod>2016-07-13</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/cat_agenda/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/cat_agendaconcert/</loc>
-  <lastmod>2016-07-13</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/cat_agendaexpositie/</loc>
-  <lastmod>2016-07-13</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/cat_blog/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/classic-rock/</loc>
-  <lastmod>2017-06-12</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/close-harmony/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/concert/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/curiosa/</loc>
-  <lastmod>2018-07-31</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/evenement/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/expositie/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/folkmuziek/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/fotografie/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/fries/</loc>
-  <lastmod>2019-11-11</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/fryslan-brass/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/harp-concert/</loc>
-  <lastmod>2016-07-13</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/harp/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/iers/</loc>
-  <lastmod>2019-11-11</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/kantklos/</loc>
-  <lastmod>2019-01-27</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/kantkunst/</loc>
-  <lastmod>2019-01-27</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/keltische-muziek/</loc>
-  <lastmod>2019-04-04</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/keramiek/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/kerst/</loc>
-  <lastmod>2016-11-12</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/kerstconceret/</loc>
-  <lastmod>2017-12-05</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/kerstmarkt/</loc>
-  <lastmod>2016-11-12</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/kinderen/</loc>
-  <lastmod>2019-11-25</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/koor/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/letterdoeken/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/markt/</loc>
-  <lastmod>2016-11-12</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/meezingavond/</loc>
-  <lastmod>2017-02-22</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/merklappen/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/naaldvilt/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/opening/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/openingstijden/</loc>
-  <lastmod>2018-10-30</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/orgel/</loc>
-  <lastmod>2017-10-25</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/pronkrollen/</loc>
-  <lastmod>2018-01-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/quilt-bee/</loc>
-  <lastmod>2017-02-22</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/quilt/</loc>
-  <lastmod>2017-01-31</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/rum-sop/</loc>
-  <lastmod>2017-06-12</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/schilderijen/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/shantykoor/</loc>
-  <lastmod>2017-06-12</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/tekeningen/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/telling/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/tentoonstelling/</loc>
-  <lastmod>2019-11-11</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/tsjerkepaad/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/verzameling/</loc>
-  <lastmod>2019-11-11</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/viltobjecten/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/vleermuizen/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/vleermuizennacht/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/vocaal/</loc>
-  <lastmod>2019-04-04</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/watervleermuizen/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/wereldlichtjesdag/</loc>
-  <lastmod>2019-11-25</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/wintermarkt/</loc>
-  <lastmod>2018-10-30</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/workshop/</loc>
-  <lastmod>2018-06-09</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/categories/zang/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/contact/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/doarpstsjerke/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/financien/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/galleries/</loc>
-  <lastmod>2018-06-15</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/galleries/20160417_fryslan_brass/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/galleries/20160710_opening_tentoonstelling/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/galleries/20170205_brouwersakkordeonorkest/</loc>
-  <lastmod>2017-01-31</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/galleries/20170224_meezingavond/</loc>
-  <lastmod>2017-02-22</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/galleries/20180610_schraapstaal/</loc>
-  <lastmod>2018-06-15</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/galleries/agenda/</loc>
-  <lastmod>2019-01-27</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/galleries/agenda/20160713_agenda/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/galleries/agenda/20170328_agenda/</loc>
-  <lastmod>2017-03-28</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/galleries/exterieur/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/galleries/interieur/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
-  <loc>http://doarpstsjerke-metslawier.nl/galleries/interieur/tijdens restauratie/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <loc>http://doarpstsjerke-metslawier.nl/galleries/interieur/tijdens%20restauratie/</loc>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
-  <loc>http://doarpstsjerke-metslawier.nl/galleries/interieur/voor restauratie/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <loc>http://doarpstsjerke-metslawier.nl/galleries/interieur/voor%20restauratie/</loc>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/galleries/opening/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/galleries/vleermuizen/</loc>
-  <lastmod>2018-06-15</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/galleries/website/</loc>
-  <lastmod>2018-07-31</lastmod>
+  <lastmod>2020-01-09T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/huren/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/listings/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/mienskipshus/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/privacy/</loc>
-  <lastmod>2019-03-04</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/stichting/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://doarpstsjerke-metslawier.nl/visie/</loc>
-  <lastmod>2016-09-14</lastmod>
+  <lastmod>2020-01-08T21:49:00Z</lastmod>
  </url>
 </urlset>

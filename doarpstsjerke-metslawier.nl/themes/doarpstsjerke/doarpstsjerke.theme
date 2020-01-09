@@ -1,0 +1,8 @@
+[Theme]
+engine = mako
+parent = bootstrap3
+author = Andreas Sikkema
+author_url = http://www.ramdyne.nl
+based_on = Bootstrap 3 <http://getbootstrap.com/>
+license = MIT
+tags = bootstrap

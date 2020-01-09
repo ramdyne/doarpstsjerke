@@ -1,2 +1,4 @@
 Sitemap: http://doarpstsjerke-metslawier.nl/sitemapindex.xml
 
+User-Agent: *
+Host: doarpstsjerke-metslawier.nl
