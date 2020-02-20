@@ -23,7 +23,7 @@
  </sitemap>
  <sitemap>
   <loc>http://doarpstsjerke-metslawier.nl/categories/blaasmuziek.xml</loc>
-  <lastmod>2020-02-20T00:39:00Z</lastmod>
+  <lastmod>2020-02-20T00:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://doarpstsjerke-metslawier.nl/categories/bluswater.xml</loc>
@@ -39,7 +39,7 @@
  </sitemap>
  <sitemap>
   <loc>http://doarpstsjerke-metslawier.nl/categories/cat_agenda.xml</loc>
-  <lastmod>2020-02-20T00:39:00Z</lastmod>
+  <lastmod>2020-02-20T00:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://doarpstsjerke-metslawier.nl/categories/cat_blog.xml</loc>
@@ -55,7 +55,7 @@
  </sitemap>
  <sitemap>
   <loc>http://doarpstsjerke-metslawier.nl/categories/concert.xml</loc>
-  <lastmod>2020-02-20T00:39:00Z</lastmod>
+  <lastmod>2020-02-20T00:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://doarpstsjerke-metslawier.nl/categories/curiosa.xml</loc>
@@ -83,7 +83,7 @@
  </sitemap>
  <sitemap>
   <loc>http://doarpstsjerke-metslawier.nl/categories/fryslan-brass.xml</loc>
-  <lastmod>2020-02-20T00:39:00Z</lastmod>
+  <lastmod>2020-02-20T00:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://doarpstsjerke-metslawier.nl/categories/harp.xml</loc>
@@ -111,11 +111,11 @@
  </sitemap>
  <sitemap>
   <loc>http://doarpstsjerke-metslawier.nl/categories/kerst.xml</loc>
-  <lastmod>2020-02-20T00:39:00Z</lastmod>
+  <lastmod>2020-02-20T00:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://doarpstsjerke-metslawier.nl/categories/kerstconceret.xml</loc>
-  <lastmod>2020-02-20T00:39:00Z</lastmod>
+  <lastmod>2020-02-20T00:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://doarpstsjerke-metslawier.nl/categories/kerstmarkt.xml</loc>
@@ -148,6 +148,10 @@
  <sitemap>
   <loc>http://doarpstsjerke-metslawier.nl/categories/naaldvilt.xml</loc>
   <lastmod>2020-02-20T00:39:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://doarpstsjerke-metslawier.nl/categories/ohime.xml</loc>
+  <lastmod>2020-02-20T00:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://doarpstsjerke-metslawier.nl/categories/opening.xml</loc>
@@ -307,10 +311,10 @@
  </sitemap>
  <sitemap>
   <loc>http://doarpstsjerke-metslawier.nl/rss.xml</loc>
-  <lastmod>2020-02-20T00:39:00Z</lastmod>
+  <lastmod>2020-02-20T00:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://doarpstsjerke-metslawier.nl/sitemap.xml</loc>
-  <lastmod>2020-02-20T00:39:00Z</lastmod>
+  <lastmod>2020-02-20T00:54:00Z</lastmod>
  </sitemap>
 </sitemapindex>

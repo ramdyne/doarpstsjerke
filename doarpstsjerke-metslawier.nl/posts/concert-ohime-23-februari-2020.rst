@@ -1,7 +1,7 @@
 .. title: Concert Ohimè 23 februari 2020
 .. slug: concert-ohime-23-februari-2020 
-.. date: 2020-02-23 19:30:00 UTC+02:00
-.. tags: kerst, kerstconceret, concert, fryslan brass, blaasmuziek
+.. date: 2020-02-23 15:00:00 UTC+02:00
+.. tags: concert, ohime 
 .. category: agenda
 .. link: 
 .. description: 
@@ -10,9 +10,9 @@
 +---------+-----------------------------------------+
 | Datum   | Zondag 23 februari 15:00                |
 +---------+-----------------------------------------+
-| Toegang | € 7,50 (inlusief 1 consumptie)       |
+| Toegang | € 7,50 (inlusief 1 consumptie)          |
 |         |                                         |
-|         | € 5,00 voor donateur                 |
+|         | € 5,00 voor donateur                    |
 +---------+-----------------------------------------+
 
 Op 23 februari om 15:00 uur komt het duo Ohime optreden in Mienskipshûs
