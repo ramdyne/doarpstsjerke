@@ -12,6 +12,14 @@
     :width: 300 px
     :align: center
 
+
++-----------------------------------------------------------------------------------------------------------+ 
+| Vanwege de huidige pandemie en de maatregelen die door de Nederlandse overheid zijn genomen zijn vanaf nu |
+| alle activiteiten van de Stichting Doarpstsjerke Metslawier geannuleerd. Ook is de kerk zelf niet         |
+| toegankelijk. We hopen op uw begrip hiervoor.                                                             |
++-----------------------------------------------------------------------------------------------------------+
+
+
 De Stichting Doarpstsjerke Metslawier heeft zich in de voorbije jaren o.a. in samenwerking en samenspraak met de Stichting
 Behoud Kerkelijke Gebouwen in Friesland, het Provinciale Deltateam Functieverandering Kerkgebouwen en het Buro
 Plattelansprojecten Noordoost Friesland vanuit `onze visie </visie/>`_ bezig gehouden met het ontwikkelen van een duurzaam plan
